@@ -1,11 +1,26 @@
-.imagem{
-/*largura*/
-width: 100px;
+body{
+margin: 0;  /*remove a margem*/
 
+background-color: rgb(75, 17, 17); /*muda a cor do fundo*/
 
-/*altura*/
-height:100px ;
+font-family: Georgia, 'Times New Roman', Times, serif; /*tipo da letra*/
 
+}
 
+h1{
+text-align: center; /* alinhamento do título*/
 
+margin-bottom: 30px; /* margem do título*/
+
+}
+
+.image{
+
+    display : grid; /*faz a tela fica em 3x3*/
+
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr) ); /* cria colunas, auto fit = encaixa as colunas, minmax = restringe o número de colunas*/
+
+    margin:auto; /* criar margem*/
+
+    
 }
