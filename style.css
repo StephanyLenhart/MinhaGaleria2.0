@@ -1,4 +1,5 @@
 body{
+
 margin: 0;  /*remove a margem*/
 
 background-color: rgb(75, 17, 17); /*muda a cor do fundo*/
@@ -8,6 +9,7 @@ font-family: Georgia, 'Times New Roman', Times, serif; /*tipo da letra*/
 }
 
 h1{
+    
 text-align: center; /* alinhamento do título*/
 
 margin-bottom: 30px; /* margem do título*/
