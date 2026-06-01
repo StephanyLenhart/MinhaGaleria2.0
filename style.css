@@ -24,3 +24,16 @@ margin-bottom: 30px; /* margem do título*/
 
     
 }
+
+
+.imagem img {
+
+    width: 50%;
+
+    max-width: 100px; /* Define a largura*/
+
+    height: auto ; /* define a altura*/
+
+    justify-self: center;
+
+}
