@@ -30,10 +30,10 @@ margin-bottom: 30px; /* margem do título*/
 
     width: 50%;
 
-    max-width: 100px; /* Define a largura*/
+    max-width: 150px; /* Define a largura*/
 
     height: auto ; /* define a altura*/
 
     justify-self: center;
-    
+
 }
